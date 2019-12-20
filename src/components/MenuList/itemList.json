@@ -1,0 +1,49 @@
+[
+    {
+      "title": "About Me",
+      "parent": null,
+      "hasSubMenu": false,
+      "content": "About Me",
+      "iconType": "User"
+    },
+    {
+      "title": "test",
+      "parent": null,
+      "content": "mstr-web-quicksearch 1.0.22"
+    },
+    {
+      "title": "1.0.22",
+      "parent": 1,
+      "content": "mstr-web-quicksearch Version 1.0.22"
+    },
+    {
+      "title": "test",
+      "parent": null,
+      "content": "mstr-web-search 0.0.12 1.0.0"
+    },
+    {
+      "title": "0.0.12",
+      "parent": 3,
+      "content": "mstr-web-search Version 0.0.12"
+    },
+    {
+      "title": "1.0.0",
+      "parent": 3,
+      "content": "mstr-web-search Version 1.0.0"
+    },
+    {
+      "title": "test",
+      "parent": null,
+      "content": "rc 0.3.4"
+    },
+    {
+      "title": "0.3.4",
+      "parent": 6,
+      "content": "rc Version 0.0.12"
+    },
+    {
+      "title": "test",
+      "parent": 7,
+      "content": "rc Version 0.0.12"
+    }
+  ]
